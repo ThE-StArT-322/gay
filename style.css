@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Neon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Tilt Neon', sans-serif;
+}
+
+
+.navbar-brand {
+    font-family: 'Climate Crisis', sans-serif;
+    
+}
+
+
+
+main-1 {
+    display: block;
+    font-size: 75px;
+    
+}
+
+
+.navbar-text {
+    font-size: 50px;
+}
+
+table {
+    margin-top: 10px;
+}
